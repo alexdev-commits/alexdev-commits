@@ -42,12 +42,6 @@ Here are a few of my projects:
    - **Features**: Server-Side Rendering, SEO Optimization
    - **Demo**: [Live Demo](http://link-to-demo.com)
 
-### 3. [**Project Name 3**](https://github.com/yourusername/project3)
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: React, Redux, Node.js
-   - **Features**: State management with Redux, API integration
-   - **Demo**: [Live Demo](http://link-to-demo.com)
-
 ## 🌐 Connect with Me
 
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
