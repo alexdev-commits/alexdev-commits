@@ -43,10 +43,9 @@ Here are a few of my projects:
    - **Demo**: [Live Demo](http://link-to-demo.com)
 
 ## 🌐 Connect with Me
-
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- 💼 LinkedIn: www.linkedin.com/in/developerstack
 - 🌍 Portfolio: [your-portfolio.com](http://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: alexwaynecontact@gmail.com
 - 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 
 ## 📝 Blog (Optional)
