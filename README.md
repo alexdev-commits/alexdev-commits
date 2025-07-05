@@ -45,7 +45,7 @@ Here are a few of my projects:
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/developerstack
 - 🌍 Portfolio: [your-portfolio.com](http://your-portfolio.com)
-- 📧 Email: alexwaynecontact@gmail.com
+- 📧 Email: alexdev.endt@gmail.com
 - 🐦 Twitter: https://x.com/alexstackdev
 
 ## 📝 Blog (Optional)
