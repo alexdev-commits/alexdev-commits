@@ -30,17 +30,24 @@ Here are some of the technologies I work with:
 
 Here are a few of my projects:
 
-### 1. [**Project Name 1**](https://github.com/yourusername/project1)
+### 1. [**Project Name 1**](https://github.com/alexdev-commits
+alexdev-commits/project1)
    - **Description**: A brief description of the project.
    - **Tech Stack**: HTML, CSS, JavaScript, React
    - **Features**: Interactive UI, Responsive design, User authentication (if applicable)
    - **Demo**: [Live Demo](http://link-to-demo.com)
 
-### 2. [**Project Name 2**](https://github.com/yourusername/project2)
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: Next.js, Tailwind CSS
-   - **Features**: Server-Side Rendering, SEO Optimization
-   - **Demo**: [Live Demo](http://link-to-demo.com)
+### 2. [**IptvOra**](https://github.com/alexdev-commits/iptvora)
+   - **Description**: A professional IPTV subscription platform built with Next.js, offering sleek design, flexible subscription plans, and seamless checkout integration.  
+   - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, CSS Modules, Swiper.js, WooCommerce, Stripe/PayPal  
+   - **Features**:  
+     - Subscription plans (1M, 3M, 6M, 12M) with unique designs  
+     - WooCommerce checkout & payment gateway integration  
+     - Responsive custom carousel with animations and thumbnails  
+     - Testimonial slider with avatars (Swiper.js)  
+     - Contact page with form handling  
+     - SEO optimization & fast loading (ISR, image optimization)  
+   - **Live**: (https://www.iptvora.com)  
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/developerstack
@@ -64,7 +71,7 @@ Here are some resources I recommend:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
 ## 🤝 Contributions
 
