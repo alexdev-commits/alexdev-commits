@@ -71,7 +71,8 @@ Here are some resources I recommend:
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&count_private=true&hide_border=true&hide_title=true&hide=prs&theme=transparent)
+
 
 ## 🤝 Contributions
 
