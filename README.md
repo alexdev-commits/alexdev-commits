@@ -1,4 +1,4 @@
-# Frontend Developer Portfolio
+# Alex Developer Portfolio
 
 Welcome to my GitHub repository! 👋
 
@@ -28,30 +28,48 @@ Here are some of the technologies I work with:
 
 ## 💼 Projects
 
-Here are a few of my projects:
+🚀 My Projects
+1. Private Project – Name Hidden
 
-### 1. [**Project Name 1**](https://github.com/alexdev-commits
-alexdev-commits/project1)
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: HTML, CSS, JavaScript, React
-   - **Features**: Interactive UI, Responsive design, User authentication (if applicable)
-   - **Demo**: [Live Demo](http://link-to-demo.com)
+Description: A full-featured project showcasing modern web development practices, clean architecture, and interactive UI.
 
-### 2. [**IptvOra**](https://github.com/alexdev-commits/iptvora)
-   - **Description**: A professional IPTV subscription platform built with Next.js, offering sleek design, flexible subscription plans, and seamless checkout integration.  
-   - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, CSS Modules, Swiper.js, WooCommerce, Stripe/PayPal  
-   - **Features**:  
-     - Subscription plans (1M, 3M, 6M, 12M) with unique designs  
-     - WooCommerce checkout & payment gateway integration  
-     - Responsive custom carousel with animations and thumbnails  
-     - Testimonial slider with avatars (Swiper.js)  
-     - Contact page with form handling  
-     - SEO optimization & fast loading (ISR, image optimization)  
-   - **Live**: (https://www.iptvora.com)  
+Tech Stack: HTML, CSS, JavaScript, React (and others as needed)
+
+Highlights:
+
+Fully responsive design
+
+Interactive interface
+
+Optional authentication and advanced features
+
+Demo / Repository: Private
+
+Note: This project is private. If you would like to see it or learn more, please contact me
+.
+
+2. Private Project – Name Hidden
+
+Description: Another professional project demonstrating advanced features, UX design, and performance optimization.
+
+Tech Stack: Next.js, TypeScript, Tailwind CSS, CSS Modules, or others
+
+Highlights:
+
+Custom UI components and animations
+
+Optimized for performance and SEO
+
+Modular architecture for scalability
+
+Demo / Repository: Private
+
+Note: This project is private. If interested, please reach out to me
+ to get access or learn more.
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/developerstack
-- 🌍 Portfolio: [your-portfolio.com](http://your-portfolio.com)
+- 🌍 Portfolio: https://www.codeclud.com
 - 📧 Email: alexdev.end@gmail.com
 - 🐦 Twitter: https://x.com/alexstackdev
 
@@ -59,7 +77,7 @@ alexdev-commits/project1)
 
 Check out my blog for frontend development tips, tutorials, and industry insights.
 
-- **Blog**: [your-blog-link.com](http://your-blog-link.com)
+- **Blog**: https://www.codeclud.com
 
 ## 📚 Learning Resources
 
@@ -71,7 +89,7 @@ Here are some resources I recommend:
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&count_private=true&hide_border=true&hide_title=true&hide=prs&theme=transparent)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&count_private=true&hide_border=true&hide=pr&theme=transparent)
 
 
 ## 🤝 Contributions
