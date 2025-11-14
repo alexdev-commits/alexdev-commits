@@ -26,46 +26,28 @@ Here are some of the technologies I work with:
 - **Webpack** & **Babel** (for bundling and transpiling)
 - **Jest** for testing
 
-## 💼 Projects
+.## 🚀 Projects
 
-🚀 My Projects
-1. Private Project – Name Hidden
+### 1. Private Project – Name Hidden
+- **Description**: A full-featured project showcasing modern web development practices, clean architecture, and interactive UI.
+- **Tech Stack**: HTML, CSS, JavaScript, React (and others as needed)
+- **Highlights**:
+  - Fully responsive design
+  - Interactive interface
+  - Optional authentication and advanced features
+- **Demo / Repository**: Private
+- **Note**: This project is private. If you would like to see it or learn more, please contact me.
 
-Description: A full-featured project showcasing modern web development practices, clean architecture, and interactive UI.
+### 2. Private Project – Name Hidden
+- **Description**: Another professional project demonstrating advanced features, UX design, and performance optimization.
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, CSS Modules, or others
+- **Highlights**:
+  - Custom UI components and animations
+  - Optimized for performance and SEO
+  - Modular architecture for scalability
+- **Demo / Repository**: Private
+- **Note**: This project is private. If interested, please reach out to me to get access or learn more.
 
-Tech Stack: HTML, CSS, JavaScript, React (and others as needed)
-
-Highlights:
-
-Fully responsive design
-
-Interactive interface
-
-Optional authentication and advanced features
-
-Demo / Repository: Private
-
-Note: This project is private. If you would like to see it or learn more, please contact me
-.
-
-2. Private Project – Name Hidden
-
-Description: Another professional project demonstrating advanced features, UX design, and performance optimization.
-
-Tech Stack: Next.js, TypeScript, Tailwind CSS, CSS Modules, or others
-
-Highlights:
-
-Custom UI components and animations
-
-Optimized for performance and SEO
-
-Modular architecture for scalability
-
-Demo / Repository: Private
-
-Note: This project is private. If interested, please reach out to me
- to get access or learn more.
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/developerstack
@@ -89,7 +71,7 @@ Here are some resources I recommend:
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&count_private=true&hide_border=true&hide=pr&theme=transparent)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev-commits&show_icons=true&count_private=true&hide_border=true&hide=prs&theme=transparent)
 
 
 ## 🤝 Contributions
