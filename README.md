@@ -50,17 +50,10 @@ Here are some of the technologies I work with:
 
 
 ## 🌐 Connect with Me
+
 - 💼 LinkedIn: www.linkedin.com/in/developerstack
-- 🌍 Portfolio: https://www.codeclud.com
 - 📧 Email: alexdev.end@gmail.com
-- 🐦 Twitter: https://x.com/alexstackdev
-
-## 📝 Blog (Optional)
-
-Check out my blog for frontend development tips, tutorials, and industry insights.
-
-- **Blog**: https://www.codeclud.com
-
+- 
 ## 📚 Learning Resources
 
 Here are some resources I recommend:
@@ -77,12 +70,6 @@ Here are some resources I recommend:
 ## 🤝 Contributions
 
 Feel free to open an issue or pull request if you find any bugs or have suggestions for improvements in any of my projects. I'm open to collaboration and always welcome feedback! 🚀
-
----
-
-### 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
